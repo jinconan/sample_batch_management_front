@@ -1,0 +1,2 @@
+# sample_batch_management_front
+sample_batch_management 프로젝트의 frontend
