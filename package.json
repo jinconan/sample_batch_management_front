@@ -1,0 +1,14 @@
+{
+  "name": "sample_batch_management_front",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/jinconan/sample_batch_management_front",
+  "author": "jinconan <jinconan@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^16.0.7"
+  }
+}
